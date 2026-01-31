@@ -97,7 +97,7 @@ streamlit run app.py
 ---
 
 ## 📊 Dataset
-- SMS Spam dataset stored in `data/spam.csv`
+- SMS Spam dataset stored in `data/spam.csv` --> https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 - Contains labeled messages (`spam` / `ham`)
 - Used for training and evaluation
 
